@@ -1,7 +1,6 @@
 CONFIG_TARGET_rockchip=y
 CONFIG_TARGET_rockchip_armv8=y
 CONFIG_TARGET_rockchip_armv8_DEVICE_ariaboard_photonicat=y
-CONFIG_ATH10K_LEDS=y
 CONFIG_ATH11K_THERMAL=y
 CONFIG_ATH9K_HWRNG=y
 CONFIG_BIND_ENABLE_DOH=y
@@ -133,8 +132,6 @@ CONFIG_PACKAGE_kcptun-config=y
 CONFIG_PACKAGE_kmod-ata-ahci=y
 CONFIG_PACKAGE_kmod-ata-ahci-platform=y
 CONFIG_PACKAGE_kmod-ata-core=y
-CONFIG_PACKAGE_kmod-ath10k-sdio=y
-# CONFIG_PACKAGE_kmod-ath10k is not set
 CONFIG_PACKAGE_kmod-ath11k=y
 CONFIG_PACKAGE_kmod-ath11k-pci=y
 CONFIG_PACKAGE_kmod-ath5k=y
